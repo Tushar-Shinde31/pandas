@@ -1,6 +1,6 @@
 # End-to-End Pandas for Data Engineering
 
-A complete hands-on Pandas repository designed for aspiring Data Engineers. This repository covers Pandas fundamentals, data manipulation techniques, data cleaning, aggregation, transformations, and real-world project implementation.
+A complete hands-on Pandas repository designed for aspiring Data Engineers. This repository covers Pandas fundamentals, data manipulation techniques, data cleaning, data visulalisation using matplotlib and seaborn, aggregation, transformations, and real-world project implementation.
 
 ## 📌 What You'll Learn
 
@@ -26,6 +26,8 @@ A complete hands-on Pandas repository designed for aspiring Data Engineers. This
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## 📂 Repository Structure
@@ -42,7 +44,3 @@ A complete hands-on Pandas repository designed for aspiring Data Engineers. This
 └── Real-World Project
 
 
-
-### Even Better One-Line Description (Recommended)
-```text
-A comprehensive Pandas learning repository for Data Engineering featuring data cleaning, transformation, aggregation, EDA, and a real-world project implementation.
